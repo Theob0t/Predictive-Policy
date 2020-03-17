@@ -1,4 +1,4 @@
-# :oncoming_police_car: Predictive-Policy :oncoming_police_car:
+# :cop: Predictive-Policy :cop:
 
 Given a time and a location predict the type of crime occurring in the city of the Bay 
 
