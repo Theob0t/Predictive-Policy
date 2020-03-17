@@ -1,6 +1,6 @@
 # :oncoming_police_car::cop: Predictive-Policy :cop::oncoming_police_car:
 
-Given a time and a location predict the type of crime occurring in the city of the Bay
+Given a time and a location predict the type of crime occurring in the city of the Bay\s
 https://www.kaggle.com/c/sf-crime/overview
 
 ## :flashlight: CONTEXT
