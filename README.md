@@ -1,7 +1,6 @@
 # :oncoming_police_car::cop: Predictive-Policy :cop::oncoming_police_car:
 
-Given a time and a location predict the type of crime occurring in the city of the Bay 
-##### https://www.kaggle.com/c/sf-crime/overview
+Given a time and a location predict the type of crime occurring in the city of the Bay                           https://www.kaggle.com/c/sf-crime/overview
 
 ## :flashlight: CONTEXT
 "From 1934 to 1963, San Francisco was infamous for housing some of the world's most notorious criminals on the inescapable island of Alcatraz.
